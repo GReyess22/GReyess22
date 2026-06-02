@@ -1,54 +1,63 @@
-# ¡Hola! Soy Guillermo Antonio Reyes Siri 👋
+ # ¡Hola! Soy Guillermo Antonio Reyes Siri 👋
 
-### 👨‍💻 Ingeniero de Sistemas | Consultor TI | Facilitador Tecnológico Certificado
-Residente en Santiago, República Dominicana. Apasionado por la infraestructura de redes, la administración de servidores, el desarrollo técnico y la formación profesional en el área de TI.
+### 👨‍💻 Ingeniero de Sistemas | Especialista en Educación 4.0, IA & Mecatrónica
+Residente en Santiago, República Dominicana. Profesional orientado a la convergencia entre la infraestructura de tecnologías de la información, la automatización mecatrónica y la integración de la Inteligencia Artificial aplicada a los procesos productivos y formativos.
 
 ---
 
 ## 🚀 Sobre Mí
 
-- 🏢 **Facilitador de Informática** en **INFOTEP Regional Norte**, liderando la capacitación técnica, andragogía aplicada y migración a entornos virtuales de aprendizaje.
-- 🛠️ **Consultor y Asesor TI** especializado en el diagnóstico, reparación y optimización de redes (alámbricas/Wi-Fi), hardware empresarial y despliegue de estaciones de trabajo.
-- ⚙️ **Administrador de Sistemas** con experiencia en entornos Linux, Unix y Windows Server.
-- 📚 **Facilitador de Conocimiento**: Fiel creyente de que la tecnología solo es útil si se sabe transmitir y aplicar para mejorar la productividad corporativa.
+- 🏢 **Facilitador de Informática y Tecnología** en **INFOTEP Regional Norte**, liderando capacitaciones en entornos virtuales de aprendizaje y metodologías didácticas centradas en la andragogía.
+- ⚙️ **Especialista en Educación 4.0**: Certificado internacionalmente en docencia generativa y transformación digital para la formación profesional técnico-científica.
+- 🛠️ **Consultor TI & Automatización**: Conectando el desarrollo de software y la administración de servidores Linux/Windows con sistemas de control mecánico, mecatrónica y robótica.
+- 🤖 **Promotor de IA**: Integrando herramientas avanzadas de Inteligencia Artificial como catalizador de la productividad y la optimización del aprendizaje continuo.
+
+---
+
+## 📚 Educación Ejecutiva & Certificaciones Destacadas
+
+### 🤖 Inteligencia Artificial & Transformación Digital
+*   **Diplomado en Aprender con Inteligencia Artificial** | INFOTEP (90 horas, Formación Virtual, 2025).
+*   **Certificación Internacional: Aprendizaje Combinado y Generatividad Docente 4.0 LINC** | INFOTEP (228 horas, Dirección de Innovación y Desarrollo, 2023).
+*   **Webinar: Cómo Gestionar Proyectos de Tecnología en la Era Actual: Metodologías Ágiles vs Tradicionales** | INFOTEP (2025).
+
+### 🦾 Mecatrónica & Automatización Industrial
+*   **Diplomado en Mecatrónica** | En Curso. Enfoque en cinemática robótica, automatización y control de sistemas mecánicos.
+
+### 🏛️ Competencias Docentes & Andragogía (INFOTEP)
+*   **Actualización en Metodología Didáctica Centrada en el Participante (AMCP)** | Centro Tecnológico Regional Norte (50 horas).
+*   **Estrategias Metodológicas Orientadas a la Andragogía** | CNIDD.
+*   **Manejo de Videoconferencias y Actuación del Docente** | Centro Nacional de Innovación y Desarrollo Docente (CNIDD).
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-| Categoría | Tecnologías |
+| Área | Tecnologías / Metodologías |
 | :--- | :--- |
-| **Sistemas Operativos** | Windows Server, Linux (Debian/Ubuntu/CentOS), Unix |
-| **Redes & Infraestructura** | Configuración de Redes Alámbricas y WIFI, Enrutamiento, Seguridad |
-| **Desarrollo & Scripting** | Delphi, PHP, CSS, Visual Studio, SQL (DBMS) |
-| **Productividad & Cloud** | MS Office Avanzado, Google Workspace, Plataformas Audiovisuales/Videoconferencias |
-| **Metodologías** | Andragogía, Formación Virtual, Gestión del Tiempo, Liderazgo de Equipos |
+| **Sistemas & Servidores** | Windows Server, Linux (Debian/Ubuntu/CentOS), Unix, Seguridad Informática |
+| **Mecatrónica & Control** | Simulación en RoboDK, Programación de Robots de 6 ejes, Automatización |
+| **Inteligencia Artificial** | IA Generativa aplicada a la educación, Automatización de flujos de trabajo, Prompts |
+| **Desarrollo & Datos** | Delphi, PHP, CSS, Visual Studio, Sistemas Manejadores de Bases de Datos (DBMS) |
+| **Metodologías Ágiles** | SCRUM / Metodologías Ágiles aplicadas a proyectos tecnológicos, Gestión del Tiempo |
 
 ---
 
-## 📁 Proyectos Destacados (Repositorios Sugeridos)
+## 📁 Proyectos e Índices Técnicos
 
-### 📌 1. [Laboratorio-SysAdmin-Linux](https://github.com/tu-usuario/Laboratorio-SysAdmin-Linux)
-*Scripts de automatización y guías de configuración para servidores Linux empresariales.*
-- **Tecnologías:** Bash, Linux, Seguridad de Servidores.
-- **Descripción:** Repositorio con plantillas de configuración y scripts útiles para administración de servidores Linux y Unix, ideales para entornos pyme.
-
-### 📌 2. [Guias-Didacticas-Tecnologia](https://github.com/tu-usuario/Guias-Didacticas-Tecnologia)
-*Material educativo y recursos interactivos para clases de TI y entornos virtuales.*
-- **Tecnologías:** Markdown, HTML, Recursos Audiovisuales.
-- **Descripción:** Un espacio dedicado a metodologías didácticas centradas en el participante, manuales paso a paso para estudiantes y guías de alfabetización digital avanzada.
-
-### 📌 3. [Plantillas-Redes-Pyme](https://github.com/tu-usuario/Plantillas-Redes-Pyme)
-*Documentación y topologías recomendadas para el despliegue de redes alámbricas e inalámbricas en pequeñas y medianas empresas.*
-- **Tecnologías:** Documentación técnica, Buenas prácticas de Redes, Diagramas de red.
-- **Descripción:** Planos conceptuales, auditorías de seguridad Wi-Fi y flujos de trabajo orientados a la consultoría de infraestructura informática.
+Te invito a explorar mi repositorio principal de documentación, donde comparto guías detalladas para la capacitación técnica y consultorías de TI:
+👉 **[Repositorio de Manuales de Infraestructura y Robótica](https://github.com/GReyess22/manuales-infraestructura-ti)**
+*   *Manual 1:* Administración Básica de Servidores Linux Empresariales.
+*   *Manual 2:* Diseño y Auditoría de Redes LAN y Wi-Fi Pyme.
+*   *Manual 3:* Guía Metodológica para la Virtualización de la Enseñanza Técnica.
+*   *Manual 4:* Introducción a la Simulación de Robótica Industrial con RoboDK.
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
-![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=radical)
+![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=GReyess22&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GReyess22&layout=compact&theme=radical)
 
 ---
 
@@ -56,4 +65,4 @@ Residente en Santiago, República Dominicana. Apasionado por la infraestructura 
 
 - 📍 Santiago, República Dominicana
 - 📧 [gars.guillermo@gmail.com](mailto:gars.guillermo@gmail.com)
-- 💼 [LinkedIn: linkedin.com/in/Guillermo-reyes-Siri)
+- 💼 [[LinkedIn: Tu Enlace Aquí](https://www.linkedin.com/in/guillermo-ant-reyes-siri)]
